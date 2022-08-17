@@ -1,0 +1,25 @@
+        @media (min-width: 1000px) {
+            .w-lg-75 {
+                width: 73%;
+                margin: auto;
+                background-color: red;
+            }
+            .w-lg-25 {
+                width: 23%;
+                margin: auto;
+                background-color: rgb(54, 147, 74);
+            }
+        }
+        
+        @media (min-width: 999px) {
+            .w-lg-75 {
+                width: 100%;
+                margin: auto;
+                background-color: red;
+            }
+            .w-lg-25 {
+                width: 100%;
+                margin: auto;
+                background-color: rgb(54, 147, 74);
+            }
+        }
